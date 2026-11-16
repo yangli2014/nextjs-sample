@@ -6,4 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 This is my first time trying Next.js. It is better compared to other Node.js based frameworks.
 
-Try it at https://nextjs-sample-p267vu6sh-yang-li.vercel.app
+Try it at https://nextjs-sample-git-main-yang-li.vercel.app/
